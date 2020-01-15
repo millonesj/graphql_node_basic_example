@@ -1,0 +1,23 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "You donk't know JS",
+      "author": "Kule Simpson",
+      "topic": "Javascript",
+      "url": "https://github.com/getify/You-Dont-Know-JS"
+    }, {
+      "id": 2,
+      "title": "A Random Book",
+      "author": "Roys Mills",
+      "topic": "Python",
+      "url": "https://www.google.com/random"
+    },{
+      "id":3,
+      "title": "First Book",
+      "author": "Ketty Carter",
+      "topic": "C++",
+      "url": "https://wikipedia.com/c++"
+    }
+  ]
+}
